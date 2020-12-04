@@ -12,5 +12,8 @@ public class Tascchenrechner {
     public static int add(int a, int b) {
         return a + b;
     }
-
+    
+    public int subtraktion(int a, int b){
+        return a-b;
+    }
 }
